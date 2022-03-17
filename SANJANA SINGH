@@ -1,0 +1,75 @@
+# LeetCode
+
+# LeetCode - Java
+
+
+| Difficulty | Challenge | Solution |
+|:-----:|:---------:|:--------:|
+|  | []() | [  ]() |
+| Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
+| Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
+| Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
+| Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
+| Easy | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/27.%20Remove%20Element.java) |
+| Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
+| Easy | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/35.%20Search%20Insert%20Position.java) |
+| Easy | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/67.%20Add%20Binary.java) |
+| Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |
+| Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
+| Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
+| Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
+| Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
+| Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
+| Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
+| Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
+| Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
+| Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes.java) |
+| Easy | [326. Power of Three](https://leetcode.com/problems/power-of-three/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
+| Easy | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
+| Easy | [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
+| Easy | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
+| Easy | [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/401.%20Binary%20Watch.java) |
+| Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
+| Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |
+| Easy | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |
+| Easy | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/461.%20Hamming%20Distance.java) |
+| Easy | [476. Number Complement](https://leetcode.com/problems/number-complement/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/476.%20Number%20Complement.java) |
+| Easy | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
+| Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |
+| Easy | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/680.%20Valid%20Palindrome%20II.java) |
+| Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
+| Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
+| Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
+| Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
+| Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
+| Easy | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1002.%20Find%20Common%20Characters.java) |
+| Easy | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java) |
+| Easy | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) |
+| Easy | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java) |
+| Easy | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.java) |
+| Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1470.%20Shuffle%20the%20Array.java) |
+| Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
+| Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
+| Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1672.%20Richest%20Customer%20Wealth.java) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Easy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
+| Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
+| Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1929.%20Concatenation%20of%20Array.java) |
+| Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
+| Easy | []() | [ Solution ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| Medium | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) |
+| Medium | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java) |
+| Medium | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/162.%20Find%20Peak%20Element.java) |
+| Medium | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
+| Medium | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java) |
+| Medium | []() | [ Solution ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
+| Hard | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/410.%20Split%20Array%20Largest%20Sum.java) |
+| Hard | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Hard/1095.%20Find%20in%20Mountain%20Array.java) |
+| Hard | []() | [ Solution ]() |
