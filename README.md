@@ -6,6 +6,7 @@
 |:-----:|:---------:|:--------:|
 |  | []() | [  ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
+| Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes) |
 | Easy | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
