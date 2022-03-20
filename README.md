@@ -20,7 +20,7 @@
 | Easy | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1732.%20Find%20the%20Highest%20Altitude.java) |
 | Easy | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1572.%20Matrix%20Diagonal%20Sum.java) |
 | Easy | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java) |
-| Easy | []() | [ Solution ]() |
+| Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1470.%20Shuffle%20the%20Array.java) |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
