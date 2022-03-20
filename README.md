@@ -15,7 +15,7 @@
 | Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
 | Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
-| Easy | []() | [ Solution ]() |
+| Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | []() | [ Solution ]() |
 | Easy | []() | [ Solution ]() |
 | | []() | [  ]() |
