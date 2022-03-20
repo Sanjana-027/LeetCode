@@ -24,7 +24,7 @@
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
 | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1929.%20Concatenation%20of%20Array.java) |
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1672.%20Richest%20Customer%20Wealth.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
