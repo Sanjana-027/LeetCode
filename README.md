@@ -22,6 +22,7 @@
 | Easy | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java) |
 | Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1470.%20Shuffle%20the%20Array.java) |
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
+| Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1929.%20Concatenation%20of%20Array.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
