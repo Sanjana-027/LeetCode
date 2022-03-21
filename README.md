@@ -1,5 +1,5 @@
 
-# LeetCode - Java [SANJANA SINGH]
+# LeetCode - Java By [SANJANA SINGH]
 
 
 | Difficulty | Challenge | Solution |
