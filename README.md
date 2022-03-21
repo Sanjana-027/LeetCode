@@ -30,7 +30,7 @@
 | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/867.%20Transpose%20Matrix.java) |
 | Easy | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1108.%20Defanging%20an%20IP%20Address.java) |
 | Easy | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1528.%20Shuffle%20String.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
