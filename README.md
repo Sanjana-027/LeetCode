@@ -26,7 +26,7 @@
 | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1920.%20Build%20Array%20from%20Permutation.java) |
 | Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1672.%20Richest%20Customer%20Wealth.java) |
 | Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
