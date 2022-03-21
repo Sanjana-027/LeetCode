@@ -28,6 +28,9 @@
 | Easy | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/832.%20Flipping%20an%20Image.java) |
 | Easy | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java) |
 | Easy | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/867.%20Transpose%20Matrix.java) |
+| Easy | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1108.%20Defanging%20an%20IP%20Address.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
