@@ -41,7 +41,7 @@
 | Easy | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/657.%20Robot%20Return%20to%20Origin.java) |
 | Easy | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/168.%20Excel%20Sheet%20Column%20Title.java) |
 | Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/125.%20Valid%20Palindrome.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
