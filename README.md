@@ -37,7 +37,7 @@
 | Easy | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/709.%20To%20Lower%20Case.java) |
 | Easy | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.java) |
 | Easy | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
