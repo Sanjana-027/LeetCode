@@ -43,7 +43,7 @@
 | Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
 | Easy | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/125.%20Valid%20Palindrome.java) |
 | Easy | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/680.%20Valid%20Palindrome%20II.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix%20String.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
