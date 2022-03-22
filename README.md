@@ -6,6 +6,8 @@
 |:-----:|:---------:|:--------:|
 |  | []() | [  ]() |
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
+| Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes) |
@@ -50,6 +52,7 @@
 | Easy | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2000.%20Reverse%20Prefix%20of%20Word.java) |
 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/13.%20Roman%20to%20Integer.java) |
 | Easy | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/20.%20Valid%20Parentheses.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
