@@ -47,7 +47,7 @@
 | Easy | [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1668.%20Maximum%20Repeating%20Substring.java) |
 | Easy | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/58.%20Length%20of%20Last%20Word.java) |
 | Easy | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1768.%20Merge%20Strings%20Alternately.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2000.%20Reverse%20Prefix%20of%20Word.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
