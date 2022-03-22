@@ -33,7 +33,7 @@
 | Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
 | Easy | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1678.%20Goal%20Parser%20Interpretation.java) |
 | Easy | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1859.%20Sorting%20the%20Sentence.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
