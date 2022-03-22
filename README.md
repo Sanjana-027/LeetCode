@@ -32,7 +32,7 @@
 | Easy | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1528.%20Shuffle%20String.java) |
 | Easy | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1773.%20Count%20Items%20Matching%20a%20Rule.java) |
 | Easy | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1678.%20Goal%20Parser%20Interpretation.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1859.%20Sorting%20the%20Sentence.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
