@@ -39,8 +39,8 @@
 | Easy | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.java) |
 | Easy | [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.java) |
 | Easy | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/657.%20Robot%20Return%20to%20Origin.java) |
-| Easy | []() | [Solution  ]() |
-| Easy | []() | [Solution  ]() |
+| Easy | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/168.%20Excel%20Sheet%20Column%20Title.java) |
+| Easy | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/28.%20Implement%20strStr().java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
