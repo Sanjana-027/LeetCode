@@ -8,7 +8,7 @@
 | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1.%20Two%20Sum.java) |
 | Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
 | Easy | [1854. Maximum Population Year[Important]](https://leetcode.com/problems/maximum-population-year/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1854.%20Maximum%20Population%20Year%5BImportant%5D.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1886. Determine Whether Matrix Can Be Obtained By Rotation [Important]]() | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
