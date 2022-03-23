@@ -61,6 +61,9 @@
 | Easy | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/20.%20Valid%20Parentheses.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
