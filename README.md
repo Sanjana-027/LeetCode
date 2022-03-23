@@ -61,7 +61,7 @@
 | Easy | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/20.%20Valid%20Parentheses.java) |
 | Easy | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/278.%20First%20Bad%20Version.java) |
 | Easy | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/367.%20Valid%20Perfect%20Square.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
