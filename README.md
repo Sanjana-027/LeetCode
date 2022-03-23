@@ -11,7 +11,7 @@
 | Easy | [1886. Determine Whether Matrix Can Be Obtained By Rotation [Important]]() | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.java) |
 | Easy | [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java) |
 | Easy | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/53.%20Maximum%20Subarray.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
