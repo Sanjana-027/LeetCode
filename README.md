@@ -69,7 +69,7 @@
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
 | Medium | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/162.%20Find%20Peak%20Element.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
