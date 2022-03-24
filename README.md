@@ -67,7 +67,7 @@
 | Easy | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1539.%20Kth%20Missing%20Positive%20Number.java) |
 | Easy | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/349.%20Intersection%20of%20Two%20Arrays.java) |
 | Easy | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
