@@ -63,7 +63,7 @@
 | Easy | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/367.%20Valid%20Perfect%20Square.java) |
 | Easy | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.java) |
 | Easy | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/441.%20Arranging%20Coins.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
