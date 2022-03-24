@@ -72,6 +72,7 @@
 | Easy | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.java) |
 | Easy | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/888.%20Fair%20Candy%20Swap.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
