@@ -65,6 +65,12 @@
 | Easy | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/441.%20Arranging%20Coins.java) |
 | Easy | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java) |
 | Easy | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1539.%20Kth%20Missing%20Positive%20Number.java) |
+| Easy | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/349.%20Intersection%20of%20Two%20Arrays.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
