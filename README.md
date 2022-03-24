@@ -73,6 +73,10 @@
 | Easy | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/888.%20Fair%20Candy%20Swap.java) |
 | Easy | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/350.%20Intersection%20of%20Two%20Arrays%20II.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
