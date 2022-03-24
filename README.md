@@ -70,7 +70,7 @@
 | Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
 | Easy | [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.java) |
 | Easy | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/888.%20Fair%20Candy%20Swap.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
