@@ -68,7 +68,7 @@
 | Easy | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/349.%20Intersection%20of%20Two%20Arrays.java) |
 | Easy | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java) |
 | Easy | [704. Binary Search](https://leetcode.com/problems/binary-search/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/704.%20Binary%20Search.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
