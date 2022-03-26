@@ -72,7 +72,7 @@
 | Easy | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.java) |
 | Easy | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/888.%20Fair%20Candy%20Swap.java) |
 | Easy | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/350.%20Intersection%20of%20Two%20Arrays%20II.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
