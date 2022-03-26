@@ -78,7 +78,7 @@
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) |
 | Easy | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/771.%20Jewels%20and%20Stones.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
