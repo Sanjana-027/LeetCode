@@ -75,7 +75,7 @@
 | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
