@@ -77,7 +77,7 @@
 | Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/771.%20Jewels%20and%20Stones.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
