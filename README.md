@@ -74,7 +74,7 @@
 | Easy | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/350.%20Intersection%20of%20Two%20Arrays%20II.java) |
 | Easy | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/88.%20Merge%20Sorted%20Array.java) |
 | Easy | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/169.%20Majority%20Element.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/217.%20Contains%20Duplicate.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
