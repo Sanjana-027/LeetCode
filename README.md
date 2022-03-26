@@ -81,7 +81,7 @@
 | Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
 | Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
 | Easy | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/905.%20Sort%20Array%20By%20Parity.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/922.%20Sort%20Array%20By%20Parity%20II.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
