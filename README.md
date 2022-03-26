@@ -79,6 +79,10 @@
 | Easy | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java) |
 | Easy | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/771.%20Jewels%20and%20Stones.java) |
 | Easy | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.java) |
+| Easy | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/628.%20Maximum%20Product%20of%20Three%20Numbers.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
