@@ -85,7 +85,7 @@
 | Easy | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/561.%20Array%20Partition%20I.java) |
 | Easy | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/455.%20Assign%20Cookies.java) |
 | Easy | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1051.%20Height%20Checker.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/976.%20Largest%20Perimeter%20Triangle.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
