@@ -87,8 +87,6 @@
 | Easy | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1051.%20Height%20Checker.java) |
 | Easy | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/976.%20Largest%20Perimeter%20Triangle.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
-
-| Easy | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1122.%20Relative%20Sort%20Array%5BImportant%5D.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
