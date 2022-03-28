@@ -14,6 +14,8 @@
 | Easy | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/566.%20Reshape%20the%20Matrix.java) |
 | Easy | [66. Plus One](https://leetcode.com/problems/plus-one/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/66.%20Plus%20One.java) |
 | Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
+| Easy | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1122.%20Relative%20Sort%20Array.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
