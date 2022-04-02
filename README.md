@@ -89,7 +89,7 @@
 | Easy | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1051.%20Height%20Checker.java) |
 | Easy | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/976.%20Largest%20Perimeter%20Triangle.java) |
 | Easy | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/977.%20Squares%20of%20a%20Sorted%20Array.java) |
-| Easy | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Recursion/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java) |
+| Easy | [1342. Number of Steps to Reduce a Number to Zero(Recursion)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Recursion/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
