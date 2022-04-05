@@ -92,7 +92,7 @@
 | Easy | [1342. Number of Steps to Reduce a Number to Zero (#Recursion)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Recursion/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java) |
 | Easy | [344. Reverse String (#Recursion)](https://leetcode.com/problems/reverse-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
 | Easy | [509. Fibonacci Number (#Recursion](https://leetcode.com/problems/fibonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [326. Power of Three (#Recursion)](https://leetcode.com/problems/power-of-three/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
