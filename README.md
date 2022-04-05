@@ -16,7 +16,7 @@
 | Easy | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/414.%20Third%20Maximum%20Number.java) |
 | Easy | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1122.%20Relative%20Sort%20Array.java) |
 | Easy | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java) |
-| Easy | []() | [Solution  ]() |
+
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
 | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes) |
