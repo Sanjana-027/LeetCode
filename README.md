@@ -93,6 +93,8 @@
 | Easy | [344. Reverse String (#Recursion)](https://leetcode.com/problems/reverse-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/344.%20Reverse%20String.java) |
 | Easy | [509. Fibonacci Number (#Recursion)](https://leetcode.com/problems/fibonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
 | Easy | [326. Power of Three (#Recursion)](https://leetcode.com/problems/power-of-three/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
+| Easy | [342. Power of Four (#Recursion)](https://leetcode.com/problems/power-of-four/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
