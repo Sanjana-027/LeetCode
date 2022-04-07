@@ -103,7 +103,7 @@
 | Medium | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java) |
 | Medium | [78. Subsets (**#Recursion**)](https://leetcode.com/problems/subsets/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/78.%20Subsets.java) |
 | Medium | [90. Subsets II (**#Recursion**)](https://leetcode.com/problems/subsets-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/90.%20Subsets%20II.java) |
-| Medium | [46. Permutations (**#Recursion)](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
+| Medium | [46. Permutations (**#Recursion**)](https://leetcode.com/problems/permutations/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
