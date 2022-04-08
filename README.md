@@ -107,7 +107,7 @@
 | Medium | [47. Permutations II (**#Recursion**](https://leetcode.com/problems/permutations-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/46.%20Permutations.java) |
 | Medium | [131. Palindrome Partitioning (**#Recursion**)](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [39. Combination Sum (**#Recursion**)](https://leetcode.com/problems/combination-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/39.%20Combination%20Sum.java) |
-| Medium | []()  | [ Solution ]() |
+| Medium | [40. Combination Sum II (**#Recursion**](https://leetcode.com/problems/combination-sum-ii/)  | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/40.%20Combination%20Sum%20II.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
