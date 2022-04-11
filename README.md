@@ -108,7 +108,7 @@
 | Medium | [131. Palindrome Partitioning (**#Recursion**)](https://leetcode.com/problems/palindrome-partitioning/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/131.%20Palindrome%20Partitioning.java) |
 | Medium | [39. Combination Sum (**#Recursion**)](https://leetcode.com/problems/combination-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/39.%20Combination%20Sum.java) |
 | Medium | [40. Combination Sum II (**#Recursion**)](https://leetcode.com/problems/combination-sum-ii/)  | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/40.%20Combination%20Sum%20II.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [494. Target Sum (**#Recursion**)](https://leetcode.com/problems/target-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/494.%20Target%20Sum.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
