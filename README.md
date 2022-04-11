@@ -110,6 +110,9 @@
 | Medium | [40. Combination Sum II (**#Recursion**)](https://leetcode.com/problems/combination-sum-ii/)  | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/40.%20Combination%20Sum%20II.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
