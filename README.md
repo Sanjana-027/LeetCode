@@ -93,6 +93,9 @@
 | Easy | [509. Fibonacci Number <b>(**#Recursion**)</b>](https://leetcode.com/problems/fibonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/509.%20Fibonacci%20Number.java) |
 | Easy | [326. Power of Three (**#Recursion**)](https://leetcode.com/problems/power-of-three/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/326.%20Power%20of%20Three.java) |
 | Easy | [342. Power of Four (**#Recursion**)](https://leetcode.com/problems/power-of-four/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
+| Easy | [21. Merge Two Sorted Lists (**#Recursion**](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/21.%20Merge%20Two%20Sorted%20Lists.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
