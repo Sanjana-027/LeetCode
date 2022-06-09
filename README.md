@@ -95,7 +95,7 @@
 | Easy | [342. Power of Four (**#Recursion**)](https://leetcode.com/problems/power-of-four/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/342.%20Power%20of%20Four.java) |
 | Easy | [21. Merge Two Sorted Lists (**#Recursion**)](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/21.%20Merge%20Two%20Sorted%20Lists.java) |
 | Easy | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/203.%20Remove%20Linked%20List%20Elements.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/206.%20Reverse%20Linked%20List.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
