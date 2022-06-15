@@ -98,6 +98,9 @@
 | Easy | [206. Reverse Linked List (**#Recursion**)](https://leetcode.com/problems/reverse-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/206.%20Reverse%20Linked%20List.java) |
 | Easy | [234. Palindrome Linked List (**#Recursion**)](https://leetcode.com/problems/palindrome-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
