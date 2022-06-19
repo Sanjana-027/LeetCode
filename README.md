@@ -117,7 +117,7 @@
 | Medium | [494. Target Sum (**#Recursion**)](https://leetcode.com/problems/target-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/494.%20Target%20Sum.java) |
 | Medium | [1922. Count Good Numbers (**#Recursion**)](https://leetcode.com/problems/count-good-numbers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1922.%20Count%20Good%20Numbers.java) |
 | Medium | [62. Unique Paths (**#DP**)](https://leetcode.com/problems/unique-paths/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/62.%20Unique%20Paths.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [63. Unique Paths II (**#DP**)](https://leetcode.com/problems/unique-paths-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/63.%20Unique%20Paths%20II.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
