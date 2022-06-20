@@ -97,7 +97,7 @@
 | Easy | [203. Remove Linked List Elements (**#Recursion**)](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution  ](https://github.com/Abhijeet-Anand-01/LeetCode/blob/main/Java/Easy/203.%20Remove%20Linked%20List%20Elements.java) |
 | Easy | [206. Reverse Linked List (**#Recursion**)](https://leetcode.com/problems/reverse-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/206.%20Reverse%20Linked%20List.java) |
 | Easy | [234. Palindrome Linked List (**#Recursion**)](https://leetcode.com/problems/palindrome-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1137. N-th Tribonacci Number (**#DP**)](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1137.%20N-th%20Tribonacci%20Number.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
