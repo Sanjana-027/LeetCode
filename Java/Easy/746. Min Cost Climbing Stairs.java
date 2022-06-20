@@ -21,8 +21,8 @@ class Solution {
 For people having confusion regarding question. the stair case is something like this:
 Input: cost = [10, 15, 20]
 
-						   __________
-				      ___ | Final step
+			  __________
+		      ___ | Final step
                  ___ | 20
             ___ | 15
 _________ | 10
