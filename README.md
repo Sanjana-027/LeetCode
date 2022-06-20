@@ -99,6 +99,7 @@
 | Easy | [234. Palindrome Linked List (**#Recursion**)](https://leetcode.com/problems/palindrome-linked-list/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/234.%20Palindrome%20Linked%20List.java) |
 | Easy | [1137. N-th Tribonacci Number (**#DP**)](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1137.%20N-th%20Tribonacci%20Number.java) |
 | Easy | [70. Climbing Stairs  (**#DP**)](https://leetcode.com/problems/climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/70.%20Climbing%20Stairs.java) |
+| Easy | [746. Min Cost Climbing Stairs (**#DP**)](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/746.%20Min%20Cost%20Climbing%20Stairs.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
