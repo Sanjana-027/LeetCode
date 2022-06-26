@@ -125,7 +125,7 @@
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
-| Hard | [140. Word Break II (**#DP + DFS**)](https://leetcode.com/problems/word-break-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/140.%20Word%20Break%20II.java) |
+| Hard | [140. Word Break II (**DP + DFS**)](https://leetcode.com/problems/word-break-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/140.%20Word%20Break%20II.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
