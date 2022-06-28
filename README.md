@@ -100,6 +100,7 @@
 | Easy | [1137. N-th Tribonacci Number (**#DP**)](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1137.%20N-th%20Tribonacci%20Number.java) |
 | Easy | [70. Climbing Stairs  (**#DP**)](https://leetcode.com/problems/climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/70.%20Climbing%20Stairs.java) |
 | Easy | [746. Min Cost Climbing Stairs (**#DP**)](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/746.%20Min%20Cost%20Climbing%20Stairs.java) |
+| Easy | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/796.%20Rotate%20String.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
