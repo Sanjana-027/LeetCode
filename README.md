@@ -126,6 +126,7 @@
 | Medium | [139. Word Break (**#DP**)](https://leetcode.com/problems/word-break/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/139.%20Word%20Break.java) |
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |
 | Medium | [543. Diameter of Binary Tree(**#Tree**)](https://leetcode.com/problems/diameter-of-binary-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/543.%20Diameter%20of%20Binary%20Tree.java) |
+| Medium | [98. Validate Binary Search Tree(**#Tree**)](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/98.%20Validate%20Binary%20Search%20Tree.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
