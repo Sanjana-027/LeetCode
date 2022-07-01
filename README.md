@@ -101,7 +101,7 @@
 | Easy | [70. Climbing Stairs  (**#DP**)](https://leetcode.com/problems/climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/70.%20Climbing%20Stairs.java) |
 | Easy | [746. Min Cost Climbing Stairs (**#DP**)](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/746.%20Min%20Cost%20Climbing%20Stairs.java) |
 | Easy | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/796.%20Rotate%20String.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [94. Binary Tree Inorder Traversal(**#TREE**)](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/94.%20Binary%20Tree%20Inorder%20Traversal.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
