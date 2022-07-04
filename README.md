@@ -130,6 +130,8 @@
 | Medium | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/151.%20Reverse%20Words%20in%20a%20String.java) |
 | Medium | [543. Diameter of Binary Tree(**#Tree**)](https://leetcode.com/problems/diameter-of-binary-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/543.%20Diameter%20of%20Binary%20Tree.java) |
 | Medium | [98. Validate Binary Search Tree(**#Tree**)](https://leetcode.com/problems/validate-binary-search-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/98.%20Validate%20Binary%20Search%20Tree.java) |
+| Medium | [113. Path Sum II(**#Tree**)](https://leetcode.com/problems/path-sum-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/113.%20Path%20Sum%20II.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
