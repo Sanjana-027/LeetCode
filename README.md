@@ -105,7 +105,7 @@
 | Easy | [783. Minimum Distance Between BST Nodes(**#TREE**)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes.java) |
 | Easy | [671. Second Minimum Node In a Binary Tree(**#TREE**)](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.java) |
 | Easy | [112. Path Sum(**#TREE**)](https://leetcode.com/problems/path-sum/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/112.%20Path%20Sum.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [144. Binary Tree Preorder Traversal(**#TREE**)](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/144.%20Binary%20Tree%20Preorder%20Traversal.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
