@@ -107,7 +107,7 @@
 | Easy | [112. Path Sum(**#TREE**)](https://leetcode.com/problems/path-sum/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/112.%20Path%20Sum.java) |
 | Easy | [144. Binary Tree Preorder Traversal(**#TREE**)](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/144.%20Binary%20Tree%20Preorder%20Traversal.java) |
 | Easy | [226. Invert Binary Tree(**#TREE**)](https://leetcode.com/problems/invert-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [572. Subtree of Another Tree(**#TREE**](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/572.%20Subtree%20of%20Another%20Tree.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
