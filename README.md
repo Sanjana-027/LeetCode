@@ -109,7 +109,7 @@
 | Easy | [226. Invert Binary Tree(**#TREE**)](https://leetcode.com/problems/invert-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/226.%20Invert%20Binary%20Tree.java) |
 | Easy | [572. Subtree of Another Tree(**#TREE**)](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/572.%20Subtree%20of%20Another%20Tree.java) |
 | Easy | [938. Range Sum of BST (**#TREE**)](https://leetcode.com/problems/range-sum-of-bst/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/938.%20Range%20Sum%20of%20BST.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [101. Symmetric Tree(**#TREE**)](https://leetcode.com/problems/symmetric-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/101.%20Symmetric%20Tree.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
