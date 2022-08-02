@@ -112,7 +112,7 @@
 | Easy | [101. Symmetric Tree(**#TREE**)](https://leetcode.com/problems/symmetric-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/101.%20Symmetric%20Tree.java) |
 | Easy | [108. Convert Sorted Array to Binary Search Tree(**#TREE**)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java) |
 | Easy | [617. Merge Two Binary Trees(**#TREE**)](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/617.%20Merge%20Two%20Binary%20Trees.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [104. Maximum Depth of Binary Tree(**#TREE**)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
