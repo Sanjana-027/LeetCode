@@ -114,7 +114,7 @@
 | Easy | [617. Merge Two Binary Trees(**#TREE**)](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/617.%20Merge%20Two%20Binary%20Trees.java) |
 | Easy | [104. Maximum Depth of Binary Tree(**#TREE**)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
 | Easy | [100. Same Tree(**#TREE**)](https://leetcode.com/problems/same-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/100.%20Same%20Tree.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [530. Minimum Absolute Difference in BST (**#TREE**)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
