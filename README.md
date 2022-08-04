@@ -120,7 +120,7 @@
 | Easy | [1025. Divisor Game (**#DP**)](https://leetcode.com/problems/divisor-game/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1025.%20Divisor%20Game.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [118. Pascal's Triangle (**#Important**)](https://leetcode.com/problems/pascals-triangle/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/118.%20Pascal's%20Triangle.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
