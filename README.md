@@ -117,7 +117,7 @@
 | Easy | [530. Minimum Absolute Difference in BST (**#TREE**)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.java) |
 | Easy | [404. Sum of Left Leaves (**#TREE**)](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/404.%20Sum%20of%20Left%20Leaves.java) |
 | Easy | [110. Balanced Binary Tree (**#TREE**)](https://leetcode.com/problems/balanced-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/110.%20Balanced%20Binary%20Tree.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1025. Divisor Game (**#DP**)](https://leetcode.com/problems/divisor-game/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1025.%20Divisor%20Game.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
