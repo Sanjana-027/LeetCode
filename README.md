@@ -145,7 +145,7 @@
 | Medium | [2. Add Two Numbers(**#LL**)](https://leetcode.com/problems/add-two-numbers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2.%20Add%20Two%20Numbers.java) |
 | Medium | [77. Combinations (#Backtraking)](https://leetcode.com/problems/combinations/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/77.%20Combinations.java) |
 | Medium | [526. Beautiful Arrangement (**#DP**)](https://leetcode.com/problems/beautiful-arrangement/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/526.%20Beautiful%20Arrangement.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [338. Counting Bits (**#DP**)](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
