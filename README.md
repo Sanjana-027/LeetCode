@@ -119,7 +119,7 @@
 | Easy | [110. Balanced Binary Tree (**#TREE**)](https://leetcode.com/problems/balanced-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/110.%20Balanced%20Binary%20Tree.java) |
 | Easy | [1025. Divisor Game (**#DP**)](https://leetcode.com/problems/divisor-game/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1025.%20Divisor%20Game.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
