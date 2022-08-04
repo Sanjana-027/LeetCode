@@ -32,3 +32,20 @@ class Solution {
         return ans;
     }
 }
+
+// 3rd Approach
+
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        int n = nums.length, end = n - 1, start = 0;
+        int[] ans = new int[n];
+        
+        for(int i = 0; i < n; i++) {
+            
+            ans[n - 1 - i] = (Math.abs(nums[start]) > nums[end]) ?  nums[start] * nums[start++] :  nums[end] * nums[end--];
+          
+        }
+        return ans;
+    }
+}
+
