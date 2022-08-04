@@ -13,3 +13,22 @@ class Solution {
         return arr;
     }
 }
+
+
+// 2nd Approach
+
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        int n = nums.length, end = n - 1, start = 0;
+        int[] ans = new int[n];
+        
+        for(int i = 0; i < n; i++) {
+            if(Math.abs(nums[start]) > nums[end]) {
+                ans[n - 1 - i] = nums[start] * nums[start];
+                start++;
+            }
+            else ans[n - 1 - i] = nums[end] * nums[end--];
+        }
+        return ans;
+    }
+}
