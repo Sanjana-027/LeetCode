@@ -122,6 +122,8 @@
 | Easy | [118. Pascal's Triangle (**#Important**)](https://leetcode.com/problems/pascals-triangle/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/118.%20Pascal's%20Triangle.java) |
 | Easy | [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/415.%20Add%20Strings.java) |
 | Easy | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/242.%20Valid%20Anagram.java) |
+| Easy | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/409.%20Longest%20Palindrome.java) |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
