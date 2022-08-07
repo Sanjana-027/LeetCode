@@ -152,7 +152,7 @@
 | Medium | [526. Beautiful Arrangement (**#DP**)](https://leetcode.com/problems/beautiful-arrangement/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/526.%20Beautiful%20Arrangement.java) |
 | Medium | [338. Counting Bits (**#DP**)](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
 | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/53.%20Maximum%20Subarray.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
