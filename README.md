@@ -151,6 +151,8 @@
 | Medium | [77. Combinations (#Backtraking)](https://leetcode.com/problems/combinations/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/77.%20Combinations.java) |
 | Medium | [526. Beautiful Arrangement (**#DP**)](https://leetcode.com/problems/beautiful-arrangement/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/526.%20Beautiful%20Arrangement.java) |
 | Medium | [338. Counting Bits (**#DP**)](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
+| Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/53.%20Maximum%20Subarray.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
