@@ -23,7 +23,6 @@
 | Easy | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/35.%20Search%20Insert%20Position.java) |
 | Easy | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/69.%20Sqrt(x).java) |
 | Easy | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/231.%20Power%20of%20Two.java) |
-| Easy | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Easy | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1480.%20Running%20Sum%20of%201d%20Array.java) |
 | Easy | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.java) |
 | Easy | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1732.%20Find%20the%20Highest%20Altitude.java) |
