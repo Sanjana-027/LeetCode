@@ -16,7 +16,7 @@
 | Easy | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1122.%20Relative%20Sort%20Array.java) |
 | Easy | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java) |
 | Easy | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.java) |
-| Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/new/main/Java/Easy) |
+| Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/268.%20Missing%20Number.java) |
 | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/283.%20Move%20Zeroes) |
 | Easy | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target) |
 | Easy | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/14.%20Longest%20Common%20Prefix.java) |
