@@ -153,6 +153,10 @@
 | Medium | [338. Counting Bits (**#DP**)](https://leetcode.com/problems/counting-bits/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/338.%20Counting%20Bits.java) |
 | Medium | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/53.%20Maximum%20Subarray.java) |
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
+| Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
