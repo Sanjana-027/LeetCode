@@ -123,6 +123,10 @@
 | Easy | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/242.%20Valid%20Anagram.java) |
 | Easy | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/409.%20Longest%20Palindrome.java) |
 | Easy | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/67.%20Add%20Binary.java) |
+| Easy | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/202.%20Happy%20Number.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
