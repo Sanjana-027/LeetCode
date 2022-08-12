@@ -115,6 +115,7 @@
 | Easy | [530. Minimum Absolute Difference in BST (**#TREE**)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.java) |
 | Easy | [404. Sum of Left Leaves (**#TREE**)](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/404.%20Sum%20of%20Left%20Leaves.java) |
 | Easy | [110. Balanced Binary Tree (**#TREE**)](https://leetcode.com/problems/balanced-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/110.%20Balanced%20Binary%20Tree.java) |
+| Easy | [257. Binary Tree Paths(**#Tree)](https://leetcode.com/problems/binary-tree-paths/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/257.%20Binary%20Tree%20Paths.java) |
 | Easy | [1025. Divisor Game (**#DP**)](https://leetcode.com/problems/divisor-game/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1025.%20Divisor%20Game.java) |
 | Easy | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java) |
 | Easy | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/724.%20Find%20Pivot%20Index.java) |
