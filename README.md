@@ -128,6 +128,7 @@
 | Easy | [496. Next Greater Element I (**#Stack**)](https://leetcode.com/problems/next-greater-element-i/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/496.%20Next%20Greater%20Element%20I.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
