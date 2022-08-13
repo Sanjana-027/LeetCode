@@ -162,7 +162,7 @@
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [453. Minimum Moves to Equal Array Elements(**#MATH**)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.java) |
 | Medium | [89. Gray Code](https://leetcode.com/problems/gray-code/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/89.%20Gray%20Code.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [3. Longest Substring Without Repeating Characters(**#String**)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
