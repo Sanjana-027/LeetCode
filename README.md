@@ -161,7 +161,7 @@
 | Medium | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/7.%20Reverse%20Integer.java) |
 | Medium | [453. Minimum Moves to Equal Array Elements(**#MATH**)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [89. Gray Code](https://leetcode.com/problems/gray-code/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/89.%20Gray%20Code.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
