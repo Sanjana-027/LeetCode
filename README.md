@@ -164,7 +164,7 @@
 | Medium | [89. Gray Code](https://leetcode.com/problems/gray-code/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/89.%20Gray%20Code.java) |
 | Medium | [3. Longest Substring Without Repeating Characters(**#String**)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
 | Medium | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [15. 3Sum](https://leetcode.com/problems/3sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/15.%203Sum.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
