@@ -167,7 +167,7 @@
 | Medium | [15. 3Sum](https://leetcode.com/problems/3sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/15.%203Sum.java) |
 | Medium | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/238.%20Product%20of%20Array%20Except%20Self.java) |
 | Medium | [56. Merge Intervals(**#Array**)](https://leetcode.com/problems/merge-intervals/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/56.%20Merge%20Intervals.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [54. Spiral Matrix(**#Array**)](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/54.%20Spiral%20Matrix.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
