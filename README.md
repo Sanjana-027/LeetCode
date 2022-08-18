@@ -171,6 +171,8 @@
 | Medium | [560. Subarray Sum Equals K (**#Array**)](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
 | Medium | [31. Next Permutation(**#Array**)](https://leetcode.com/problems/next-permutation/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/31.%20Next%20Permutation.java) |
 | Medium | [11. Container With Most Water(**#Array**)](https://leetcode.com/problems/container-with-most-water/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/11.%20Container%20With%20Most%20Water.java) |
+| Medium | [48. Rotate Image(**#Array**)](https://leetcode.com/problems/rotate-image/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/48.%20Rotate%20Image.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
