@@ -168,6 +168,8 @@
 | Medium | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/238.%20Product%20of%20Array%20Except%20Self.java) |
 | Medium | [56. Merge Intervals(**#Array**)](https://leetcode.com/problems/merge-intervals/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/56.%20Merge%20Intervals.java) |
 | Medium | [54. Spiral Matrix(**#Array**)](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/54.%20Spiral%20Matrix.java) |
+| Medium | [560. Subarray Sum Equals K (**#Array**)](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
