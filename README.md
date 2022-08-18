@@ -169,7 +169,7 @@
 | Medium | [56. Merge Intervals(**#Array**)](https://leetcode.com/problems/merge-intervals/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/56.%20Merge%20Intervals.java) |
 | Medium | [54. Spiral Matrix(**#Array**)](https://leetcode.com/problems/spiral-matrix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/54.%20Spiral%20Matrix.java) |
 | Medium | [560. Subarray Sum Equals K (**#Array**)](https://leetcode.com/problems/subarray-sum-equals-k/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/560.%20Subarray%20Sum%20Equals%20K.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [31. Next Permutation(**#Array**)](https://leetcode.com/problems/next-permutation/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/31.%20Next%20Permutation.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
