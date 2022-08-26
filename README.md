@@ -127,7 +127,7 @@
 | Easy | [202. Happy Number](https://leetcode.com/problems/happy-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/202.%20Happy%20Number.java) |
 | Easy | [844. Backspace String Compare (**#Stack**)](https://leetcode.com/problems/backspace-string-compare/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/844.%20Backspace%20String%20Compare.java) |
 | Easy | [496. Next Greater Element I (**#Stack**)](https://leetcode.com/problems/next-greater-element-i/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/496.%20Next%20Greater%20Element%20I.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
