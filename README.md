@@ -180,6 +180,11 @@
 | Medium | [1010. Pairs of Songs With Total Durations Divisible by 60 (**#Array**)](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java) |
 | Medium | [1423. Maximum Points You Can Obtain from Cards (**#Array**)](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java) |
 | Medium | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (**#Array**)](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java) |
+| Medium | [695. Max Area of Island (**#Array**)](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
