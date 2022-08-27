@@ -176,7 +176,7 @@
 | Medium | [16. 3Sum Closest (**#Array**)](https://leetcode.com/problems/3sum-closest/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/16.%203Sum%20Closest.java) |
 | Medium | [287. Find the Duplicate Number (**#Array**)](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [289. Game of Life(**#Array**)](https://leetcode.com/problems/game-of-life/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/289.%20Game%20of%20Life.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [18. 4Sum (**#Array**)](https://leetcode.com/problems/4sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/18.%204Sum.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
