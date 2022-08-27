@@ -177,7 +177,7 @@
 | Medium | [287. Find the Duplicate Number (**#Array**)](https://leetcode.com/problems/find-the-duplicate-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/287.%20Find%20the%20Duplicate%20Number.java) |
 | Medium | [289. Game of Life(**#Array**)](https://leetcode.com/problems/game-of-life/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/289.%20Game%20of%20Life.java) |
 | Medium | [18. 4Sum (**#Array**)](https://leetcode.com/problems/4sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/18.%204Sum.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1010. Pairs of Songs With Total Durations Divisible by 60 (**#Array**)](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
