@@ -184,7 +184,7 @@
 | Medium | [1423. Maximum Points You Can Obtain from Cards (**#Array**)](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java) |
 | Medium | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (**#Array**)](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java) |
 | Medium | [695. Max Area of Island (**#Array**)](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [532. K-diff Pairs in an Array (**#Array**)](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/532.%20K-diff%20Pairs%20in%20an%20Array.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
