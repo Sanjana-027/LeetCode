@@ -130,7 +130,7 @@
 | Easy | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/485.%20Max%20Consecutive%20Ones.java) |
 | Easy | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/383.%20Ransom%20Note.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/941.%20Valid%20Mountain%20Array.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
