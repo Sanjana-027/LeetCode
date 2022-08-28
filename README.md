@@ -185,7 +185,7 @@
 | Medium | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (**#Array**)](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java) |
 | Medium | [695. Max Area of Island (**#Array**)](https://leetcode.com/problems/max-area-of-island/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/695.%20Max%20Area%20of%20Island.java) |
 | Medium | [532. K-diff Pairs in an Array (**#Array**)](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/532.%20K-diff%20Pairs%20in%20an%20Array.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1169. Invalid Transactions (**#Array**)](https://leetcode.com/problems/invalid-transactions/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1169.%20Invalid%20Transactions.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
