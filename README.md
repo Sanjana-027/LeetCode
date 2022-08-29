@@ -189,6 +189,7 @@
 | Medium | [55. Jump Game (**#Array**)](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/55.%20Jump%20Game.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
