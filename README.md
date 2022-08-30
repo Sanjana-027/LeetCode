@@ -132,6 +132,10 @@
 | Easy | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/383.%20Ransom%20Note.java) |
 | Easy | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/941.%20Valid%20Mountain%20Array.java) |
 | Easy | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/27.%20Remove%20Element.java) |
+| Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
