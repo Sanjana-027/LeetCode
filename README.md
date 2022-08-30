@@ -191,7 +191,7 @@
 | Medium | [532. K-diff Pairs in an Array (**#Array**)](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/532.%20K-diff%20Pairs%20in%20an%20Array.java) |
 | Medium | [1169. Invalid Transactions (**#Array**)](https://leetcode.com/problems/invalid-transactions/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1169.%20Invalid%20Transactions.java) |
 | Medium | [55. Jump Game (**#Array**)](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/55.%20Jump%20Game.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/200.%20Number%20of%20Islands.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
