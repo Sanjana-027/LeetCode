@@ -134,7 +134,7 @@
 | Easy | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/27.%20Remove%20Element.java) |
 | Easy | [136. Single Number](https://leetcode.com/problems/single-number/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/136.%20Single%20Number.java) |
 | Easy | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/645.%20Set%20Mismatch.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
