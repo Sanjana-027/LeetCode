@@ -196,6 +196,9 @@
 | Medium | [55. Jump Game (**#Array**)](https://leetcode.com/problems/jump-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/55.%20Jump%20Game.java) |
 | Medium | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/200.%20Number%20of%20Islands.java) |
 | Medium | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/73.%20Set%20Matrix%20Zeroes.java) |
+| Medium | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
