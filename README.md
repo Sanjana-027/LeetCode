@@ -137,7 +137,7 @@
 | Easy | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java) |
 | Easy | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.java) |
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/145.%20Binary%20Tree%20Postorder%20Traversal.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
