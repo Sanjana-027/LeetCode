@@ -197,7 +197,7 @@
 | Medium | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/200.%20Number%20of%20Islands.java) |
 | Medium | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/73.%20Set%20Matrix%20Zeroes.java) |
 | Medium | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/36.%20Valid%20Sudoku.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
