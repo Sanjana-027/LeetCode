@@ -138,7 +138,7 @@
 | Easy | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.java) |
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
 | Easy | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/145.%20Binary%20Tree%20Postorder%20Traversal.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
