@@ -142,6 +142,10 @@
 | Easy | [637. Average of Levels in Binary Tree(**#Tree**)](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.java) |
 | Easy | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/925.%20Long%20Pressed%20Name.java) |
 | Easy | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1002.%20Find%20Common%20Characters.java) |
+| Easy | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1200.%20Minimum%20Absolute.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
