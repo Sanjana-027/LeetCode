@@ -139,6 +139,9 @@
 | Easy | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1512.%20Number%20of%20Good%20Pairs.java) |
 | Easy | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/145.%20Binary%20Tree%20Postorder%20Traversal.java) |
 | Easy | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java) |
+| Easy | [637. Average of Levels in Binary Tree(**#Tree**)](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
