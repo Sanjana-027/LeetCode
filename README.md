@@ -208,7 +208,7 @@
 | Medium | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/417.%20Pacific%20Atlantic%20Water%20Flow.java) |
 | Medium | [1249. Minimum Remove to Make Valid Parentheses (**#String**)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java) |
 | Medium | [5. Longest Palindromic Substring (**#String**)](https://leetcode.com/problems/longest-palindromic-substring/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/5.%20Longest%20Palindromic%20Substring.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [49. Group Anagrams (**#String**)](https://leetcode.com/problems/group-anagrams/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/49.%20Group%20Anagrams.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
