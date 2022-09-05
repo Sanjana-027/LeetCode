@@ -206,6 +206,9 @@
 | Medium | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.java) |
 | Medium | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/36.%20Valid%20Sudoku.java) |
 | Medium | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/417.%20Pacific%20Atlantic%20Water%20Flow.java) |
+| Medium | [1249. Minimum Remove to Make Valid Parentheses (**#String**)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
