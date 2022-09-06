@@ -210,7 +210,7 @@
 | Medium | [5. Longest Palindromic Substring (**#String**)](https://leetcode.com/problems/longest-palindromic-substring/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/5.%20Longest%20Palindromic%20Substring.java) |
 | Medium | [49. Group Anagrams (**#String**)](https://leetcode.com/problems/group-anagrams/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/49.%20Group%20Anagrams.java) |
 | Medium | [227. Basic Calculator II (**#String**)](https://leetcode.com/problems/basic-calculator-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/227.%20Basic%20Calculator%20II.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [12. Integer to Roman (**#String**)](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/12.%20Integer%20to%20Roman.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
