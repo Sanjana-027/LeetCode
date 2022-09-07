@@ -212,7 +212,7 @@
 | Medium | [227. Basic Calculator II (**#String**)](https://leetcode.com/problems/basic-calculator-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/227.%20Basic%20Calculator%20II.java) |
 | Medium | [12. Integer to Roman (**#String**)](https://leetcode.com/problems/integer-to-roman/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/12.%20Integer%20to%20Roman.java) |
 | Medium | [71. Simplify Path (**#String**)](https://leetcode.com/problems/simplify-path/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/71.%20Simplify%20Path.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [28. Find the Index of the First Occurrence in a String (**#String**)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
