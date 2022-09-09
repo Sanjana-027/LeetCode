@@ -215,7 +215,7 @@
 | Medium | [28. Find the Index of the First Occurrence in a String (**#String**)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.java) |
 | Medium | [429. N-ary Tree Level Order Traversal (**#Tree**)](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/429.%20N-ary%20Tree%20Level%20Order%20Traversal.java) |
 | Medium | [814. Binary Tree Pruning (**#Tree**)](https://leetcode.com/problems/binary-tree-pruning/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/814.%20Binary%20Tree%20Pruning.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
