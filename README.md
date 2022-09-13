@@ -218,7 +218,7 @@
 | Medium | [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.java) |
 | Medium | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/179.%20Largest%20Number.java) |
 | Medium | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/948.%20Bag%20of%20Tokens.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1383.%20Maximum%20Performance%20of%20a%20Team.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
