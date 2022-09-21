@@ -219,6 +219,10 @@
 | Medium | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/179.%20Largest%20Number.java) |
 | Medium | [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/948.%20Bag%20of%20Tokens.java) |
 | Medium | [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1383.%20Maximum%20Performance%20of%20a%20Team.java) |
+| Medium | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.Java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
