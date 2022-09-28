@@ -223,6 +223,10 @@
 | Medium | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/718.%20Maximum%20Length%20of%20Repeated%20Subarray.java) |
 | Medium | [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.java) |
 | Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |
+| Medium | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
