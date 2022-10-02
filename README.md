@@ -225,7 +225,7 @@
 | Medium | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/763.%20Partition%20Labels.java) |
 | Medium | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java) |
 | Medium | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/838.%20Push%20Dominoes.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
