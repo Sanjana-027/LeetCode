@@ -229,6 +229,10 @@
 | Medium | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/623.%20Add%20One%20Row%20to%20Tree.java) |
 | Medium | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/981.%20Time%20Based%20Key-Value%20Store.java) |
 | Medium | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/729.%20My%20Calendar%20I.java) |
+| Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
