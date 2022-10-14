@@ -230,7 +230,7 @@
 | Medium | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/981.%20Time%20Based%20Key-Value%20Store.java) |
 | Medium | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/729.%20My%20Calendar%20I.java) |
 | Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
