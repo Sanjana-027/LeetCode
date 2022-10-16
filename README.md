@@ -240,6 +240,6 @@
 | Hard | [140. Word Break II (**DP + DFS**)](https://leetcode.com/problems/word-break-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/140.%20Word%20Break%20II.java) |
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
