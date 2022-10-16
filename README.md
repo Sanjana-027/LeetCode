@@ -232,7 +232,7 @@
 | Medium | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/334.%20Increasing%20Triplet%20Subsequence.java) |
 | Medium | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.java) |
 | Medium | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1531.%20String%20Compression%20II.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [443. String Compression](https://leetcode.com/problems/string-compression/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/443.%20String%20Compression.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
