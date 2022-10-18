@@ -147,7 +147,7 @@
 | Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
 | Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
 | Easy | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
