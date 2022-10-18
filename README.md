@@ -146,6 +146,10 @@
 | Easy | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.java) |
 | Easy | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/190.%20Reverse%20Bits.java) |
 | Easy | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/191.%20Number%20of%201%20Bits.java) |
+| Easy | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
