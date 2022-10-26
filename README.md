@@ -243,7 +243,7 @@
 | Medium | [443. String Compression](https://leetcode.com/problems/string-compression/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/443.%20String%20Compression.java) |
 | Medium | [692. Top K Frequent Words (**#Comparator**)](https://leetcode.com/problems/top-k-frequent-words/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/692.%20Top%20K%20Frequent%20Words.java) |
 | Medium | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/523.%20Continuous%20Subarray%20Sum.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
