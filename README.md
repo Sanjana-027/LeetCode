@@ -253,5 +253,9 @@
 | Hard | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/41.%20First%20Missing%20Positive.java) |
 | Hard | [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/732.%20My%20Calendar%20III.java) |
 | Hard | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java) |
+| Hard | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.java) |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
