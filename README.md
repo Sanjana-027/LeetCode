@@ -151,7 +151,7 @@
 | Easy | [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java) |
 | Easy | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/219.%20Contains%20Duplicate%20II.java) |
 | Easy | [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/766.%20Toeplitz%20Matrix.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
