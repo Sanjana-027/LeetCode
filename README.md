@@ -245,6 +245,10 @@
 | Medium | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java) |
 | Medium | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/523.%20Continuous%20Subarray%20Sum.java) |
 | Medium | [2300. Successful Pairs of Spells and Potions]() | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.java) |
+| Medium | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1706.%20Where%20Will%20the%20Ball%20Fall.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
