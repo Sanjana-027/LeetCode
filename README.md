@@ -259,7 +259,7 @@
 | Hard | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java) |
 | Hard | [2136. Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.java) |
 | Hard | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/212.%20Word%20Search%20II.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
