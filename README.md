@@ -248,7 +248,7 @@
 | Medium | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1706.%20Where%20Will%20the%20Ball%20Fall.java) |
 | Medium | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/433.%20Minimum%20Genetic%20Mutation.java) |
 | Medium | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
