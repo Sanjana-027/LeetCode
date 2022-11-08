@@ -154,7 +154,15 @@
 | Easy | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/766.%20Toeplitz%20Matrix.java) |
 | Easy | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.java) |
 | Easy | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1323.%20Maximum%2069%20Number.java) |
+| Easy | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1544.%20Make%20The%20String%20Great.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
