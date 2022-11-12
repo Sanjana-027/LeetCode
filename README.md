@@ -273,5 +273,5 @@
 | Hard | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.java) |
 | Hard | [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/212.%20Word%20Search%20II.java) |
 | Hard | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/899.%20Orderly%20Queue.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/295.%20Find%20Median%20from%20Data%20Stream.java) |
 | Hard | []() | [ Solution ]() |
