@@ -156,7 +156,7 @@
 | Easy | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1323.%20Maximum%2069%20Number.java) |
 | Easy | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1544.%20Make%20The%20String%20Great.java) |
 | Easy | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2465.%20Number%20of%20Distinct%20Averages.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
