@@ -260,7 +260,7 @@
 | Medium | [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/260.%20Single%20Number%20III.java) |
 | Medium | [901. Online Stock Span]() | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/948.%20Bag%20of%20Tokens.java) |
 | Medium | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/222.%20Count%20Complete%20Tree%20Nodes.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
