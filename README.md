@@ -277,4 +277,15 @@
 | Hard | [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/212.%20Word%20Search%20II.java) |
 | Hard | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/899.%20Orderly%20Queue.java) |
 | Hard | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/295.%20Find%20Median%20from%20Data%20Stream.java) |
+| Hard | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/587.%20Erect%20the%20Fence.java) |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
