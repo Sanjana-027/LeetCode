@@ -262,7 +262,7 @@
 | Medium | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.java) |
 | Medium | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/222.%20Count%20Complete%20Tree%20Nodes.java) |
 | Medium | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/223.%20Rectangle%20Area.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
