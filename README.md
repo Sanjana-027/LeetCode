@@ -283,7 +283,7 @@
 | Hard | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/295.%20Find%20Median%20from%20Data%20Stream.java) |
 | Hard | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/587.%20Erect%20the%20Fence.java) |
 | Hard | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/224.%20Basic%20Calculator.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
