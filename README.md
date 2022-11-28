@@ -265,7 +265,7 @@
 | Medium | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.java) |
 | Medium | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/279.%20Perfect%20Squares.java) |
 | Medium | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/907.%20Sum%20of%20Subarray%20Minimums.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
