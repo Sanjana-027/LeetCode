@@ -266,7 +266,7 @@
 | Medium | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/279.%20Perfect%20Squares.java) |
 | Medium | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/907.%20Sum%20of%20Subarray%20Minimums.java) |
 | Medium | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/380.%20Insert%20Delete%20GetRandom%20O(1).java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
