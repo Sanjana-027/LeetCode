@@ -158,7 +158,7 @@
 | Easy | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java) |
 | Easy | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2465.%20Number%20of%20Distinct%20Averages.java) |
 | Easy | [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/263.%20Ugly%20Number.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1207.%20Unique%20Number%20of%20Occurrences.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
