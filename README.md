@@ -269,6 +269,9 @@
 | Medium | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/380.%20Insert%20Delete%20GetRandom%20O(1).java) |
 | Medium | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.java) |
 | Medium | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/451.%20Sort%20Characters%20By%20Frequency.java) |
+| Medium | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2256.%20Minimum%20Average%20Difference.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
