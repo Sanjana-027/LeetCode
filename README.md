@@ -159,7 +159,7 @@
 | Easy | [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2465.%20Number%20of%20Distinct%20Averages.java) |
 | Easy | [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/263.%20Ugly%20Number.java) |
 | Easy | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1207.%20Unique%20Number%20of%20Occurrences.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/872.%20Leaf-Similar%20Trees.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
