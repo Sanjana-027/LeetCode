@@ -271,7 +271,7 @@
 | Medium | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/451.%20Sort%20Characters%20By%20Frequency.java) |
 | Medium | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2256.%20Minimum%20Average%20Difference.java) |
 | Medium | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/328.%20Odd%20Even%20Linked%20List.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
