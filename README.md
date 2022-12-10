@@ -272,6 +272,10 @@
 | Medium | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2256.%20Minimum%20Average%20Difference.java) |
 | Medium | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/328.%20Odd%20Even%20Linked%20List.java) |
 | Medium | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.java) |
+| Medium | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
