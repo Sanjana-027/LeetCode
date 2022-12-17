@@ -274,7 +274,7 @@
 | Medium | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.java) |
 | Medium | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.java) |
 | Medium | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1143.%20Longest%20Common%20Subsequence.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
