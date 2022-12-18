@@ -275,6 +275,7 @@
 | Medium | [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.java) |
 | Medium | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1143.%20Longest%20Common%20Subsequence.java) |
 | Medium | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation.java) |
+| Medium | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/739.%20Daily%20Temperatures.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
