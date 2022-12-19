@@ -160,7 +160,7 @@
 | Easy | [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/263.%20Ugly%20Number.java) |
 | Easy | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1207.%20Unique%20Number%20of%20Occurrences.java) |
 | Easy | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/872.%20Leaf-Similar%20Trees.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1971.%20Find%20if%20Path%20Exists%20in%20Graph.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
