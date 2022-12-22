@@ -298,7 +298,7 @@
 | Hard | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/224.%20Basic%20Calculator.java) |
 | Hard | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.java) |
 | Hard | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/834.%20Sum%20of%20Distances%20in%20Tree.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
