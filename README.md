@@ -161,6 +161,10 @@
 | Easy | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1207.%20Unique%20Number%20of%20Occurrences.java) |
 | Easy | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/872.%20Leaf-Similar%20Trees.java) |
 | Easy | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1971.%20Find%20if%20Path%20Exists%20in%20Graph.java) |
+| Easy | [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.java) |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
