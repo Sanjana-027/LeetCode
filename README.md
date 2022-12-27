@@ -282,7 +282,7 @@
 | Medium | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/739.%20Daily%20Temperatures.java) |
 | Medium | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/841.%20Keys%20and%20Rooms.java) |
 | Medium | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/886.%20Possible%20Bipartition.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
