@@ -283,7 +283,7 @@
 | Medium | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/841.%20Keys%20and%20Rooms.java) |
 | Medium | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/886.%20Possible%20Bipartition.java) |
 | Medium | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
