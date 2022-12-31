@@ -306,7 +306,7 @@
 | Hard | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.java) |
 | Hard | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.java) |
 | Hard | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/834.%20Sum%20of%20Distances%20in%20Tree.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/980.%20Unique%20Paths%20III.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
