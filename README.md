@@ -286,7 +286,7 @@
 | Medium | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.java) |
 | Medium | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.java) |
 | Medium | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
