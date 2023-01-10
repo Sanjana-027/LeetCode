@@ -166,6 +166,9 @@
 | Easy | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/520.%20Detect%20Capital.java) |
 | Easy | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/944.%20Delete%20Columns%20to%20Make%20Sorted.java) |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
