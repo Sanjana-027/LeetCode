@@ -317,7 +317,7 @@
 | Hard | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/834.%20Sum%20of%20Distances%20in%20Tree.java) |
 | Hard | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/980.%20Unique%20Paths%20III.java) |
 | Hard | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/149.%20Max%20Points%20on%20a%20Line.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
