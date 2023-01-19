@@ -297,7 +297,7 @@
 | Medium | [134. Gas Station](https://leetcode.com/problems/gas-station/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/134.%20Gas%20Station.java) |
 | Medium | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.java) |
 | Medium | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
