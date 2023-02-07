@@ -300,6 +300,7 @@
 | Medium | [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing.java) |
 | Medium | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/974.%20Subarray%20Sums%20Divisible%20by%20K.java) |
 | Medium | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/93.%20Restore%20IP%20Addresses.java) |
+| Medium | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/904.%20Fruit%20Into%20Baskets.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
