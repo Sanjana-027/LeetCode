@@ -1,5 +1,5 @@
 
-# LeetCode => JAVA + DSA By [SANJANA SINGH]
+# LeetCode => JAVA + DSA SOLUTION By [SANJANA SINGH]
 
 
 | **Difficulty** | **Challenge** | **Solution** |
