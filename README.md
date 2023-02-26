@@ -325,7 +325,7 @@
 | Hard | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/149.%20Max%20Points%20on%20a%20Line.java) |
 | Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
 | Hard | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2306.%20Naming%20a%20Company.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/72.%20Edit%20Distance.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
