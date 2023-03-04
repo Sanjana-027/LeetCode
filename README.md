@@ -326,7 +326,7 @@
 | Hard | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.java) |
 | Hard | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2306.%20Naming%20a%20Company.java) |
 | Hard | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/72.%20Edit%20Distance.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
