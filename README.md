@@ -303,6 +303,7 @@
 | Medium | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.java) |
 | Medium | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1162.%20As%20Far%20from%20Land%20as%20Possible.java) |
 | Medium | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/382.%20Linked%20List%20Random%20Node.java) |
+| Medium | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
