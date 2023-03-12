@@ -329,5 +329,5 @@
 | Hard | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/72.%20Edit%20Distance.java) |
 | Hard | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.java) |
 | Hard | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1345.%20Jump%20Game%20IV.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/23.%20Merge%20k%20Sorted%20Lists.java) |
 | Hard | []() | [ Solution ]() |
