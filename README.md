@@ -165,7 +165,7 @@
 | Easy | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/290.%20Word%20Pattern.java) |
 | Easy | [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/520.%20Detect%20Capital.java) |
 | Easy | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/944.%20Delete%20Columns%20to%20Make%20Sorted.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/232.%20Implement%20Queue%20using%20Stacks.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
