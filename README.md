@@ -306,6 +306,8 @@
 | Medium | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.java) |
 | Medium | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
 | Medium | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.java) |
+| Medium | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
