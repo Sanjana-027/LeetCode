@@ -310,6 +310,7 @@
 | Medium | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/208.%20Implement%20Trie%20(Prefix%20Tree).java) |
 | Medium | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1472.%20Design%20Browser%20History.java) |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
