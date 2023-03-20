@@ -309,7 +309,7 @@
 | Medium | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java) |
 | Medium | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/208.%20Implement%20Trie%20(Prefix%20Tree).java) |
 | Medium | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1472.%20Design%20Browser%20History.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/216.%20Combination%20Sum%20III.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
