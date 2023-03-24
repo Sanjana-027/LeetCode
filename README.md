@@ -312,7 +312,7 @@
 | Medium | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1472.%20Design%20Browser%20History.java) |
 | Medium | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/216.%20Combination%20Sum%20III.java) |
 | Medium | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2348.%20Number%20of%20Zero-Filled%20Subarrays.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
