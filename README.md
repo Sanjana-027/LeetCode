@@ -167,7 +167,7 @@
 | Easy | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/944.%20Delete%20Columns%20to%20Make%20Sorted.java) |
 | Easy | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/232.%20Implement%20Queue%20using%20Stacks.java) |
 | Easy | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/605.%20Can%20Place%20Flowers.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/189.%20Rotate%20Array.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
