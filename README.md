@@ -168,7 +168,7 @@
 | Easy | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/232.%20Implement%20Queue%20using%20Stacks.java) |
 | Easy | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/605.%20Can%20Place%20Flowers.java) |
 | Easy | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/189.%20Rotate%20Array.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
