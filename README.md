@@ -316,6 +316,9 @@
 | Medium | [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.java) |
 | Medium | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2405.%20Optimal%20Partition%20of%20String.java) |
 | Medium | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2439.%20Minimize%20Maximum%20of%20Array.java) |
+| Medium | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1254.%20Number%20of%20Closed%20Islands.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
