@@ -320,7 +320,7 @@
 | Medium | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2439.%20Minimize%20Maximum%20of%20Array.java) |
 | Medium | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1254.%20Number%20of%20Closed%20Islands.java) |
 | Medium | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1020.%20Number%20of%20Enclaves.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2390.%20Removing%20Stars%20From%20a%20String.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
