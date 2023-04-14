@@ -323,7 +323,7 @@
 | Medium | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1254.%20Number%20of%20Closed%20Islands.java) |
 | Medium | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1020.%20Number%20of%20Enclaves.java) |
 | Medium | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2390.%20Removing%20Stars%20From%20a%20String.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/516.%20Longest%20Palindromic%20Subsequence.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
