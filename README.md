@@ -327,6 +327,7 @@
 | Medium | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/516.%20Longest%20Palindromic%20Subsequence.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
