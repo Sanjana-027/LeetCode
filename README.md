@@ -354,7 +354,7 @@
 | Hard | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1345.%20Jump%20Game%20IV.java) |
 | Hard | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/23.%20Merge%20k%20Sorted%20Lists.java) |
 | Hard | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/879.%20Profitable%20Schemes.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
