@@ -328,6 +328,7 @@
 | Medium | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/662.%20Maximum%20Width%20of%20Binary%20Tree.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
