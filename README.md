@@ -170,7 +170,7 @@
 | Easy | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan&id=algorithm-i) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/189.%20Rotate%20Array.java) |
 | Easy | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.java) |
 | Easy | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1046.%20Last%20Stone%20Weight.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/258.%20Add%20Digits.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
