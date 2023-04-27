@@ -327,7 +327,7 @@
 | Medium | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/516.%20Longest%20Palindromic%20Subsequence.java) |
 | Medium | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/662.%20Maximum%20Width%20of%20Binary%20Tree.java) |
 | Medium | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2336.%20Smallest%20Number%20in%20Infinite%20Set.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/319.%20Bulb%20Switcher.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
