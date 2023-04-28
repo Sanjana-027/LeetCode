@@ -357,7 +357,7 @@
 | Hard | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/23.%20Merge%20k%20Sorted%20Lists.java) |
 | Hard | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.java) |
 | Hard | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/879.%20Profitable%20Schemes.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/839.%20Similar%20String%20Groups.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
