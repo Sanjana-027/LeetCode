@@ -172,7 +172,7 @@
 | Easy | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1046.%20Last%20Stone%20Weight.java) |
 | Easy | [258. Add Digits](https://leetcode.com/problems/add-digits/description/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/258.%20Add%20Digits.java) |
 | Easy | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
