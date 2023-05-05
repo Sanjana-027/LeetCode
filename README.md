@@ -331,6 +331,7 @@
 | Medium | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2336.%20Smallest%20Number%20in%20Infinite%20Set.java) |
 | Medium | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/319.%20Bulb%20Switcher.java) |
 | Medium | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/649.%20Dota2%20Senate.java) |
+| Medium | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
