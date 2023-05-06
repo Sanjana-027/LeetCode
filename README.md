@@ -332,6 +332,10 @@
 | Medium | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/319.%20Bulb%20Switcher.java) |
 | Medium | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/649.%20Dota2%20Senate.java) |
 | Medium | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.java) |
+| Medium | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
