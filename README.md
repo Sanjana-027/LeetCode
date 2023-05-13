@@ -337,6 +337,9 @@
 | Medium | [1035. Uncrossed Lines (DP)](https://leetcode.com/problems/uncrossed-lines/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1035.%20Uncrossed%20Lines.java) |
 | Medium | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/128.%20Longest%20Consecutive%20Sequence.java) |
 | Medium | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2140.%20Solving%20Questions%20With%20Brainpower.java) |
+| Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
+| Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
