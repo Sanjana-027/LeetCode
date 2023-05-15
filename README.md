@@ -372,7 +372,7 @@
 | Hard | [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1697.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths.java) |
 | Hard | [135. Candy](https://leetcode.com/problems/candy/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/135.%20Candy.java) |
 | Hard | [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1799.%20Maximize%20Score%20After%20N%20Operations.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [1721. Swapping Nodes in a Linked List(LINKED_LIST)](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
