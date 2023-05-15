@@ -338,7 +338,7 @@
 | Medium | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/128.%20Longest%20Consecutive%20Sequence.java) |
 | Medium | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2140.%20Solving%20Questions%20With%20Brainpower.java) |
 | Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/155.%20Min%20Stack.java) |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
