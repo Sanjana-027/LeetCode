@@ -339,6 +339,8 @@
 | Medium | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2140.%20Solving%20Questions%20With%20Brainpower.java) |
 | Medium | [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.java) |
 | Medium | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/155.%20Min%20Stack.java) |
+| Medium | [24. Swap Nodes in Pairs(LL)](https://leetcode.com/problems/swap-nodes-in-pairs/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/24.%20Swap%20Nodes%20in%20Pairs.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
