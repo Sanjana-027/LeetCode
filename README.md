@@ -342,6 +342,8 @@
 | Medium | [24. Swap Nodes in Pairs(LL)](https://leetcode.com/problems/swap-nodes-in-pairs/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/24.%20Swap%20Nodes%20in%20Pairs.java) |
 | Medium | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.java) |
 | Medium | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.java) |
+| Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite.java) |
+| Medium | []() | [ Solution ]() |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
