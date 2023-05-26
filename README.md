@@ -344,6 +344,7 @@
 | Medium | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.java) |
 | Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite.java) |
 | Medium | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/837.%20New%2021%20Game.java) |
+| Medium | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1140.%20Stone%20Game%20II.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
