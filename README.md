@@ -379,6 +379,6 @@
 | Hard | [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1799.%20Maximize%20Score%20After%20N%20Operations.java) |
 | Hard | [1721. Swapping Nodes in a Linked List(LINKED_LIST)](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.java) |
 | Hard | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1406.%20Stone%20Game%20III.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
