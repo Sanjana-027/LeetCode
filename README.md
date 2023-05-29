@@ -382,3 +382,6 @@
 | Hard | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1406.%20Stone%20Game%20III.java) |
 | Hard | [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.java) |
 | Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
