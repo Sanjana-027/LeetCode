@@ -345,6 +345,7 @@
 | Medium | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/785.%20Is%20Graph%20Bipartite.java) |
 | Medium | [837. New 21 Game](https://leetcode.com/problems/new-21-game/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/837.%20New%2021%20Game.java) |
 | Medium | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1140.%20Stone%20Game%20II.java) |
+| Medium | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1396.%20Design%20Underground%20System.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
