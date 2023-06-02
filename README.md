@@ -347,6 +347,7 @@
 | Medium | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1140.%20Stone%20Game%20II.java) |
 | Medium | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1396.%20Design%20Underground%20System.java) |
 | Medium | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.java) |
+| Medium | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2101.%20Detonate%20the%20Maximum%20Bombs.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
