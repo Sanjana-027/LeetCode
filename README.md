@@ -349,6 +349,7 @@
 | Medium | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.java) |
 | Medium | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2101.%20Detonate%20the%20Maximum%20Bombs.java) |
 | Medium | [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.java) |
+| Medium | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/547.%20Number%20of%20Provinces.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
