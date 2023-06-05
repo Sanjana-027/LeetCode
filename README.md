@@ -177,7 +177,7 @@
 | Easy | [205. Isomorphic Strings(HashMap)](https://leetcode.com/problems/isomorphic-strings/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/205.%20Isomorphic%20Strings.java) |
 | Easy | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/228.%20Summary%20Ranges.java) |
 | Easy | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/705.%20Design%20HashSet.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
