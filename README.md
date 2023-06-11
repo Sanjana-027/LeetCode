@@ -354,6 +354,7 @@
 | Medium | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/547.%20Number%20of%20Provinces.java) |
 | Medium | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.java) |
 | Medium | [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.java) |
+| Medium | [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1146.%20Snapshot%20Array.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
