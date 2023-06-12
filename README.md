@@ -393,5 +393,3 @@
 | Hard | [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.java) |
 | Hard | []() | [ Solution ]() |
 | Hard | []() | [ Solution ]() |
-| Hard | []() | [ Solution ]() |
-| Hard | []() | [ Solution ]() |
