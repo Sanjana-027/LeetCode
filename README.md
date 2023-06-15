@@ -356,6 +356,7 @@
 | Medium | [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.java) |
 | Medium | [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1146.%20Snapshot%20Array.java) |
 | Medium | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2352.%20Equal%20Row%20and%20Column%20Pairs.java) |
+| Medium | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
