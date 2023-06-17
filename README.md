@@ -394,5 +394,5 @@
 | Hard | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1406.%20Stone%20Game%20III.java) |
 | Hard | [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.java) |
 | Hard | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.java) |
-| Hard | []() | [ Solution ]() |
+| Hard | [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1187.%20Make%20Array%20Strictly%20Increasing.java) |
 | Hard | []() | [ Solution ]() |
