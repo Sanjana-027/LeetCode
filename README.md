@@ -396,3 +396,4 @@
 | Hard | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.java) |
 | Hard | [1187. Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1187.%20Make%20Array%20Strictly%20Increasing.java) |
 | Hard | []() | [ Solution ]() |
+| Hard | []() | [ Solution ]() |
