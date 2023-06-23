@@ -359,6 +359,7 @@
 | Medium | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.java) |
 | Medium | [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2090.%20K%20Radius%20Subarray%20Averages.java) |
 | Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java) |
+| Medium | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1027.%20Longest%20Arithmetic%20Subsequence.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
