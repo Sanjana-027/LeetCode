@@ -360,6 +360,7 @@
 | Medium | [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2090.%20K%20Radius%20Subarray%20Averages.java) |
 | Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java) |
 | Medium | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1027.%20Longest%20Arithmetic%20Subsequence.java) |
+| Medium | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2462.%20Total%20Cost%20to%20Hire%20K%20Workers.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
