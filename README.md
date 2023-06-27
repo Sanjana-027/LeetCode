@@ -361,6 +361,7 @@
 | Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java) |
 | Medium | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1027.%20Longest%20Arithmetic%20Subsequence.java) |
 | Medium | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2462.%20Total%20Cost%20to%20Hire%20K%20Workers.java) |
+| Medium | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
