@@ -362,6 +362,7 @@
 | Medium | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1027.%20Longest%20Arithmetic%20Subsequence.java) |
 | Medium | [2462. Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2462.%20Total%20Cost%20to%20Hire%20K%20Workers.java) |
 | Medium | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.java) |
+| Medium | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1514.%20Path%20with%20Maximum%20Probability.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
