@@ -404,4 +404,5 @@
 | Hard | [2448. Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.java) |
 | Hard | [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/956.%20Tallest%20Billboard.java) |
 | Hard | [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1575.%20Count%20All%20Possible%20Routes.java) |
+| Hard | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/864.%20Shortest%20Path%20to%20Get%20All%20Keys.java) |
 | Hard | []() | [ Solution ]() |
