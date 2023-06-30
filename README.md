@@ -405,4 +405,5 @@
 | Hard | [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/956.%20Tallest%20Billboard.java) |
 | Hard | [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1575.%20Count%20All%20Possible%20Routes.java) |
 | Hard | [864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/864.%20Shortest%20Path%20to%20Get%20All%20Keys.java) |
+| Hard | [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.java) |
 | Hard | []() | [ Solution ]() |
