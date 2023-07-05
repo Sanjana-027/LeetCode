@@ -364,6 +364,7 @@
 | Medium | [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.java) |
 | Medium | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1514.%20Path%20with%20Maximum%20Probability.java) |
 | Medium | [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2305.%20Fair%20Distribution%20of%20Cookies.java) |
+| Medium | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
