@@ -412,4 +412,5 @@
 | Hard | [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.java) |
 | Hard | [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1601.%20Maximum%20Number%20of%20Achievable%20Transfer%20Requests.java) |
 | Hard | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2551.%20Put%20Marbles%20in%20Bags.java) |
+| Hard | [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2272.%20Substring%20With%20Largest%20Variance.java) |
 | Hard | []() | [ Solution ]() |
