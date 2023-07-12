@@ -367,7 +367,7 @@
 | Medium | [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2305.%20Fair%20Distribution%20of%20Cookies.java) |
 | Medium | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java) |
 | Medium | [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam.java) |
-| Medium | []() | [ Solution ]() |
+| Medium | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/802.%20Find%20Eventual%20Safe%20States.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
