@@ -417,4 +417,5 @@
 | Hard | [2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2551.%20Put%20Marbles%20in%20Bags.java) |
 | Hard | [2272. Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2272.%20Substring%20With%20Largest%20Variance.java) |
 | Hard | [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.java) |
+| Hard | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1125.%20Smallest%20Sufficient%20Team.java) |
 | Hard | []() | [ Solution ]() |
