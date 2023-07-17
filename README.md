@@ -370,6 +370,7 @@
 | Medium | [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam.java) |
 | Medium | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/802.%20Find%20Eventual%20Safe%20States.java) |
 | Medium | [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.java) |
+| Medium | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/445.%20Add%20Two%20Numbers%20II.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
