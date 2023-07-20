@@ -373,6 +373,7 @@
 | Medium | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/445.%20Add%20Two%20Numbers%20II.java) |
 | Medium | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/146.%20LRU%20Cache.java) |
 | Medium | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/435.%20Non-overlapping%20Intervals.java) |
+| Medium | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/735.%20Asteroid%20Collision.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
