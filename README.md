@@ -375,6 +375,7 @@
 | Medium | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/435.%20Non-overlapping%20Intervals.java) |
 | Medium | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/735.%20Asteroid%20Collision.java) |
 | Medium | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/673.%20Number%20of%20Longest%20Increasing%20Subsequence.java) |
+| Medium | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/894.%20All%20Possible%20Full%20Binary%20Trees.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
