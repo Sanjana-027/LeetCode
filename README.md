@@ -378,6 +378,7 @@
 | Medium | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/894.%20All%20Possible%20Full%20Binary%20Trees.java) |
 | Medium | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/767.%20Reorganize%20String.java) |
 | Medium | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/486.%20Predict%20the%20Winner.java) |
+| Medium | [2079. Watering Plants](https://leetcode.com/problems/watering-plants/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2079.%20Watering%20Plants.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
