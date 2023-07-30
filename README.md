@@ -428,4 +428,5 @@
 | Hard | [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.java) |
 | Hard | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1125.%20Smallest%20Sufficient%20Team.java) |
 | Hard | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2141.%20Maximum%20Running%20Time%20of%20N%20Computers.java) |
+| Hard | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/664.%20Strange%20Printer.java) |
 | Hard | []() | [ Solution ]() |
