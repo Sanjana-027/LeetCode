@@ -184,6 +184,7 @@
 | Easy | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/111.%20Minimum%20Depth%20of%20Binary%20Tree.java) |
 | Easy | []() | [Solution  ]() |
 | Easy | []() | [Solution  ]() |
+| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
