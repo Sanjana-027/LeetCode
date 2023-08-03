@@ -1,0 +1,4 @@
+SELECT name, SUM(amount) as balance FROM Users, Transactions
+WHERE  Users.account = Transactions.account
+GROUP BY Transactions.account
+HAVING SUM(amount) > 10000;
