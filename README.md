@@ -381,6 +381,7 @@
 | Medium | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/767.%20Reorganize%20String.java) |
 | Medium | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/486.%20Predict%20the%20Winner.java) |
 | Medium | [2079. Watering Plants](https://leetcode.com/problems/watering-plants/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2079.%20Watering%20Plants.java) |
+| Medium | [2811. Check if it is Possible to Split Array](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2811.%20Check%20if%20it%20is%20Possible%20to%20Split%20Array.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
