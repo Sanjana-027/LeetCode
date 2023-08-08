@@ -433,4 +433,5 @@
 | Hard | [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1125.%20Smallest%20Sufficient%20Team.java) |
 | Hard | [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2141.%20Maximum%20Running%20Time%20of%20N%20Computers.java) |
 | Hard | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/664.%20Strange%20Printer.java) |
+| Hard | [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/920.%20Number%20of%20Music%20Playlists.java) |
 | Hard | []() | [ Solution ]() |
