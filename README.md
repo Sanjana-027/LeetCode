@@ -387,6 +387,7 @@
 | Medium | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java) |
 | Medium | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/518.%20Coin%20Change%20II.java) |
 | Medium | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.java) |
+| Medium | [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2369.%20Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
