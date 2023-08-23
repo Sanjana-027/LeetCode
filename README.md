@@ -390,6 +390,7 @@
 | Medium | [86. Partition List](https://leetcode.com/problems/partition-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1615.%20Maximal%20Network%20Rank.java) |
 | Medium | []() | [ Solution ]() |
+| Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
