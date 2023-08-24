@@ -442,4 +442,5 @@
 | Hard | [664. Strange Printer](https://leetcode.com/problems/strange-printer/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/664.%20Strange%20Printer.java) |
 | Hard | [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/920.%20Number%20of%20Music%20Playlists.java) |
 | Hard | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/239.%20Sliding%20Window%20Maximum.java) |
+| Hard | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/68.%20Text%20Justification.java) |
 | Hard | []() | [ Solution ]() |
