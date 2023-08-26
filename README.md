@@ -390,6 +390,7 @@
 | Medium | [86. Partition List](https://leetcode.com/problems/partition-list/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java) |
 | Medium | [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1615.%20Maximal%20Network%20Rank.java) |
 | Medium | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/97.%20Interleaving%20String.java) |
+| Medium | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/646.%20Maximum%20Length%20of%20Pair%20Chain.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
