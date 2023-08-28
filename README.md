@@ -183,6 +183,7 @@
 | Easy | [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/859.%20Buddy%20Strings.java) |
 | Easy | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/111.%20Minimum%20Depth%20of%20Binary%20Tree.java) |
 | Easy | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/459.%20Repeated%20Substring%20Pattern.java) |
+| Easy | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/225.%20Implement%20Stack%20using%20Queues.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
