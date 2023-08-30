@@ -447,4 +447,5 @@
 | Hard | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/239.%20Sliding%20Window%20Maximum.java) |
 | Hard | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/68.%20Text%20Justification.java) |
 | Hard | [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/403.%20Frog%20Jump.java) |
+| Hard | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.java) |
 | Hard | []() | [ Solution ]() |
