@@ -448,4 +448,5 @@
 | Hard | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/68.%20Text%20Justification.java) |
 | Hard | [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/403.%20Frog%20Jump.java) |
 | Hard | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.java) |
+| Hard | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.java) |
 | Hard | []() | [ Solution ]() |
