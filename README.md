@@ -393,6 +393,7 @@
 | Medium | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/97.%20Interleaving%20String.java) |
 | Medium | [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/646.%20Maximum%20Length%20of%20Pair%20Chain.java) |
 | Medium | [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2483.%20Minimum%20Penalty%20for%20a%20Shop.java) |
+| Medium | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2707.%20Extra%20Characters%20in%20a%20String.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
