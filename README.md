@@ -396,6 +396,7 @@
 | Medium | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2707.%20Extra%20Characters%20in%20a%20String.java) |
 | Medium | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/377.%20Combination%20Sum%20IV.java) |
 | Medium | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java) |
+| Medium | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/6.%20Zigzag%20Conversion.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
