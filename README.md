@@ -454,4 +454,5 @@
 | Hard | [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.java) |
 | Hard | [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.java) |
 | Hard | [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java) |
+| Hard | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Hard/332.%20Reconstruct%20Itinerary.java) |
 | Hard | []() | [ Solution ]() |
