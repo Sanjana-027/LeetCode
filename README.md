@@ -397,6 +397,7 @@
 | Medium | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/377.%20Combination%20Sum%20IV.java) |
 | Medium | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java) |
 | Medium | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/6.%20Zigzag%20Conversion.java) |
+| Medium | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1584.%20Min%20Cost%20to%20Connect%20All%20Points.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
