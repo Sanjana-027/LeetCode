@@ -189,6 +189,9 @@
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
 | Medium | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [ Solution ]() |
 | Medium | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
 | Medium | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/162.%20Find%20Peak%20Element.java) |
@@ -401,6 +404,9 @@
 | Medium | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1584.%20Min%20Cost%20to%20Connect%20All%20Points.java) |
 | Medium | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1631.%20Path%20With%20Minimum%20Effort.java) |
 | Medium | []() | [ Solution ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
+| | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
