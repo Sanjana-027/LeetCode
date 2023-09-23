@@ -405,6 +405,7 @@
 | Medium | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1584.%20Min%20Cost%20to%20Connect%20All%20Points.java) |
 | Medium | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1631.%20Path%20With%20Minimum%20Effort.java) |
 | Medium | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java) |
+| Medium | [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/1048.%20Longest%20String%20Chain.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
