@@ -185,7 +185,7 @@
 | Easy | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/459.%20Repeated%20Substring%20Pattern.java) |
 | Easy | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/225.%20Implement%20Stack%20using%20Queues.java) |
 | Easy | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.java) |
-| Easy | []() | [Solution  ]() |
+| Easy | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/389.%20Find%20the%20Difference.java) |
 | Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
