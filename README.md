@@ -409,6 +409,7 @@
 | Medium | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/799.%20Champagne%20Tower.java) |
 | Medium | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/316.%20Remove%20Duplicate%20Letters.java) |
 | Medium | [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/880.%20Decoded%20String%20at%20Index.java) |
+| Medium | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/50.%20Pow(x%2C%20n).java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
