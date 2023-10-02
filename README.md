@@ -412,6 +412,7 @@
 | Medium | [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/880.%20Decoded%20String%20at%20Index.java) |
 | Medium | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/50.%20Pow(x%2C%20n).java) |
 | Medium | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/456.%20132%20Pattern.java) |
+| Medium | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
