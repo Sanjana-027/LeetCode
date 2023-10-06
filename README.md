@@ -414,6 +414,7 @@
 | Medium | [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/456.%20132%20Pattern.java) |
 | Medium | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.java) |
 | Medium | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/229.%20Majority%20Element%20II.java) |
+| Medium | [343. Integer Break](https://leetcode.com/problems/integer-break/) | [ Solution ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Medium/343.%20Integer%20Break.java) |
 | Medium | []() | [ Solution ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
