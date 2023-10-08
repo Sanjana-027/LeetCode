@@ -188,7 +188,6 @@
 | Easy | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/389.%20Find%20the%20Difference.java) |
 | Easy | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Solution  ](https://github.com/Sanjana-027/LeetCode/blob/main/Java/Easy/706.%20Design%20HashMap.java) |
 | Easy | []() | [Solution  ]() |
-| Easy | []() | [Solution  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
 | | []() | [  ]() |
